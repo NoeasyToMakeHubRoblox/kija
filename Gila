@@ -189,3 +189,7 @@ end)
 Tab2Section:NewButton("Dark Hub", "kok", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
 end)
+
+Tab1Section:NewButton("Gak tau (Murder Party)", "BZoo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/vinhkhang100/e/main/README.md"))()
+end)
