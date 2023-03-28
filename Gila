@@ -193,3 +193,7 @@ end)
 Tab1Section:NewButton("Gak tau (Murder Party)", "BZoo", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/vinhkhang100/e/main/README.md"))()
 end)
+
+Tab2Section:NewButton("Yeet Gui", "dah lah", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/qLaUQLXe'))()
+end)
