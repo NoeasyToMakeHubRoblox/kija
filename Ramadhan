@@ -197,3 +197,7 @@ end)
 Tab2Section:NewButton("Yeet Gui", "dah lah", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/qLaUQLXe'))()
 end)
+
+Tab2Section:NewButton("Hitbox V2", "Bram", function()
+    loadstring('https://pastebin.com/raw/pjXuNYgU'))()
+end)
