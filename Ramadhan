@@ -201,3 +201,7 @@ end)
 Tab2Section:NewButton("Hitbox V2", "Bram", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/pjXuNYgU'))()
 end)
+
+Tab3Section:NewButton("ButtonText", "ButtonInfo", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/FPS-Counter'))()
+end)
