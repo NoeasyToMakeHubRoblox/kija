@@ -202,6 +202,14 @@ Tab2Section:NewButton("Hitbox V2", "Bram", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/pjXuNYgU'))()
 end)
 
-Tab3Section:NewButton("ButtonText", "ButtonInfo", function()
+Tab3Section:NewButton("melihat fps", "ButtonInfo", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/FPS-Counter'))()
+end)
+
+Tab1Section:NewButton("gak tau (Friday night Bloxxin)", "B45", function()
+    loadstring(game:HttpGet(("https://stavratum.github.io/%d/"):format(game.PlaceId)))()
+end)
+
+Tab3Section:NewButton("melihat fps", "B45", function()
+    
 end)
