@@ -213,3 +213,5 @@ end)
 Tab1Section:NewButton("Sonic Hub (Survival The Killer)", "Sonic_Key0xfee3555e77f5e1d63def765cc6ed0705905ec31a7cee2e37848bc2f3ad2b6550", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/NickelHUBB/SonicTuru/main/SonicHub"))()
 end)
+
+Tab1
