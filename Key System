@@ -65,7 +65,7 @@ KeyBox.Position = UDim2.new(0.216714069, 0, 0.0933334902, 0)
 KeyBox.Size = UDim2.new(0.552679658, 0, 0.298396379, 0)
 KeyBox.Font = Enum.Font.SourceSansSemibold
 KeyBox.PlaceholderColor3 = Color3.fromRGB(80, 80, 80)
-KeyBox.PlaceholderText = "Key"
+KeyBox.PlaceholderText = "mati"
 KeyBox.Text = "Kevin strong"
 KeyBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 KeyBox.TextScaled = true
@@ -82,7 +82,7 @@ else
 	request = request
 end
 
-local suskey = request({Url = "https://raw.githubusercontent.com/NoeasyToMakeHubRoblox/kija/main/Key",Method = "GET"}).Body
+local suskey = request({Url = "https://pastebin.com/raw/tLKniYbm",Method = "GET"}).Body
 
 VerifyButton.Name = "Verify Button"
 VerifyButton.Parent = VerifyFrame
