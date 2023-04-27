@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("The OleKid|Bahasa Indonesia|Versi Ramadhan", "Midnight")
+local Window = Library.CreateLib("The OleKid|Bahasa Indonesia|Versi Beta Test", "Midnight")
 
 ---Tabs
 
@@ -162,8 +162,8 @@ Tab3Section:NewButton("Terbang V3", "Buto", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/gNb0mYab'))()
 end)
 
-Tab3Section:NewButton("Rejoin", "info min", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/rouxhaver/scripts-2/main/rejoin%20button%20for%20kick%20message.lua", true))()
+Tab3Section:NewButton("Rejoin Button", "info min", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/5A45GG6F'))((
 end)
 
 Tab1Section:NewButton("poopdoors (Doors)", "Butto9nfo", function()
