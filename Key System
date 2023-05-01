@@ -65,8 +65,8 @@ KeyBox.Position = UDim2.new(0.216714069, 0, 0.0933334902, 0)
 KeyBox.Size = UDim2.new(0.552679658, 0, 0.298396379, 0)
 KeyBox.Font = Enum.Font.SourceSansSemibold
 KeyBox.PlaceholderColor3 = Color3.fromRGB(80, 80, 80)
-KeyBox.PlaceholderText = "mati"
-KeyBox.Text = "Kevin strong"
+KeyBox.PlaceholderText = "Bego"
+KeyBox.Text = "Besok Sekolah"
 KeyBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 KeyBox.TextScaled = true
 KeyBox.TextSize = 14.000
@@ -109,7 +109,7 @@ VerifyButton.MouseButton1Down:connect(function()
 
 		GUI.Parent = nil
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoeasyToMakeHubRoblox/kija/main/Ramadhan"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoeasyToMakeHubRoblox/kija/main/Beta%20Test"))()
 
 	end
 end)
@@ -129,6 +129,6 @@ GetKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 GetKey.TextSize = 42.000
 GetKey.TextWrapped = true
 GetKey.MouseButton1Down:connect(function()
-	setclipboard("boring Sonic?")
+	setclipboard("https://pastebin.com/raw/tLKniYbm")
 	game.StarterGui:SetCore("SendNotification", {Title = "Key link copied", Text = "Paste the link in a browser", Icon = "", Duration = 5})
 end)
