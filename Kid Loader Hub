@@ -3,18 +3,18 @@ local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/Gami
 local Library = DarkraiX:Window("Kid Loader Hub","","",Enum.KeyCode.RightControl);
 
 Tab1 = Library:Tab("Welcome")
+Tab2 = Library:Tab("Olekid Hub")
+Tab3 = Library:Tab("VHub")
+Tab4 = Library:Tab("Coco Hub") 
 
 Tab1:Button("Welcom to Kid Loader Hub",function()
     print("Welcome")
 end)
 
-Tab2 = Library:Tab("Olekid Hub")
-
 Tab2:Button("Olekid With Key System",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/NoeasyToMakeHubRoblox/kija/main/Key%20System"))()
 end)
 
-Tab3 = Library:Tab("VHub")
 
 Tab3:Button("VHub New",function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/Veincx5315/Created/VHub/Simple'),true))()
