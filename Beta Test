@@ -11,8 +11,6 @@ local Tab3 = Window:NewTab("Script")
 local Tab3Section = Tab3:NewSection("Tidur lah")
 local Tab4 = Window:NewTab("Executor")
 local Tab4Section = Tab4:NewSection("PKI")
-local Tab5 = Window:NewTab("Player/Pemain")
-local Tab5Section = Tab5:NewSection("Anjay")
 
 ---Buttons
 
@@ -224,6 +222,7 @@ Tab1Section:NewButton("gak tau (Stroongman simulator)", "patch", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/main/loader.lua",true))()
 end)
 
-Tab5Section:NewButton("God mode/Tuhan Mode", "gak", function()
-    loadstring(game:HttpGet('https://pastebin.com/raw/WrrBWZpb'))()
+Tab1Section:NewButton("gak tau (Main musik mobil (Brookhaven))", "patch", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/g97RafnE'),true))()
 end)
+
