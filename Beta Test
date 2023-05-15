@@ -226,3 +226,8 @@ Tab1Section:NewButton("gak tau (Main musik mobil (Brookhaven))", "patch", functi
     loadstring(game:HttpGet(('https://pastebin.com/raw/g97RafnE'),true))()
 end)
 
+Tab3Section:NewButton("Mouse V2", "Nice", function()
+
+    loadstring(game:HttpGet(('https://pastefy.ga/58d8d52G/raw'),true))()
+
+end)
