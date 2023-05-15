@@ -231,3 +231,9 @@ Tab3Section:NewButton("Mouse V2", "Nice", function()
     loadstring(game:HttpGet(('https://pastefy.ga/58d8d52G/raw'),true))()
 
 end)
+
+Tab1Section:NewButton("PWNER HUB V2", "ButtonInfo", function()
+
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Maikderninja/Maikderninja/main/PWNERHUB.lua"), true))()
+
+end)
