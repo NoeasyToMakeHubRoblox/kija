@@ -237,3 +237,9 @@ Tab1Section:NewButton("PWNER HUB V2", "ButtonInfo", function()
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Maikderninja/Maikderninja/main/PWNERHUB.lua"), true))()
 
 end)
+
+Tab3Section:NewButton("R15 menuju R6", "ButtonInfo", function()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/9wJepMwY'),true))()
+
+end)
